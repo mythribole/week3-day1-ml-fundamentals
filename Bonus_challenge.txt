@@ -1,0 +1,15 @@
+Topic: Salary Prediction
+
+Features:
+1. Experience
+2. Education Level
+3. Projects Completed
+
+Label:
+Salary
+
+Algorithm:
+Linear Regression
+
+Prediction:
+Predict salary of a new employee based on experience, education level and projects completed.

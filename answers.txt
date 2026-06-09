@@ -1,0 +1,17 @@
+What is the slope?
+The slope is the coefficient of the feature. It shows how much the predicted marks change when the feature increases by one unit.
+
+What is the intercept?
+The intercept is the starting value of the prediction when all input features are zero.
+
+What do they mean?
+Slope represents the relationship between input features and marks. Intercept represents the baseline prediction.
+
+What is MAE?
+Mean Absolute Error is the average difference between actual values and predicted values. Lower MAE means better performance.
+
+What is R² Score?
+R² Score measures how well the model explains the variation in the data. A value closer to 1 indicates better performance.
+
+Is your model performing well?
+Yes. The model performs well because the predictions are close to the actual values and the R² Score is high.

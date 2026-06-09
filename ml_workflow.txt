@@ -1,0 +1,25 @@
+Machine Learning Workflow Documentation
+
+1.Data Collection
+Data collection is the first step in a machine learning project. In this step, data is gathered from different sources such as CSV files, databases, websites, surveys, or APIs. The collected data should be relevant to the problem we want to solve. Good quality data helps in building an accurate machine learning model.
+
+2.Data Cleaning
+Data cleaning is the process of preparing the dataset before analysis. Missing values, duplicate records, and incorrect data are identified and handled. This step improves the quality of the dataset and ensures that the model learns from accurate information. Clean data leads to better predictions and performance.
+
+3.Feature Selection
+Feature selection means choosing the most important columns or attributes from the dataset. Not all features contribute equally to the prediction process. Removing unnecessary features reduces complexity and improves model efficiency. It also helps in reducing training time and overfitting.
+
+4.Train-Test Split
+The dataset is divided into two parts: training data and testing data. The training data is used to teach the model, while the testing data is used to evaluate its performance. A common split is 80% for training and 20% for testing. This helps us understand how well the model works on unseen data.
+
+5.Model Training
+Model training is the process of teaching the machine learning algorithm using the training dataset. During this step, the model learns patterns and relationships from the data. Different algorithms such as Linear Regression, Decision Trees, or Random Forest can be used. The goal is to create a model that can make accurate predictions.
+
+6.Testing
+After training, the model is tested using the testing dataset. The model makes predictions on data it has not seen before. Testing helps us check whether the model has learned correctly from the training data. It provides an idea of how the model will perform in real-world situations.
+
+7.Evaluation
+Evaluation measures the performance of the machine learning model. Metrics such as Accuracy, Precision, Recall, F1-Score, and Mean Squared Error are used depending on the problem type. The evaluation results help us determine whether the model is good enough or needs improvement. This step is important for comparing different models.
+
+8.Prediction
+Prediction is the final step of the machine learning workflow. The trained model is used to predict outcomes for new data. These predictions help in decision-making and solving real-world problems. The quality of predictions depends on the data and model performance.
